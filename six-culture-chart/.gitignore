@@ -1,0 +1,10 @@
+# Personal birth data and chart outputs are kept local (public repository)
+BIRTH_INPUT.json
+INPUT_AUDIT.md
+CALCULATION_MANIFEST.json
+MASTER_DATASET.json
+MASTER_DATASET.md
+VERIFICATION_REPORT.json
+VERIFICATION_REPORT.md
+SYNTHESIS.json
+FINAL_READING.md

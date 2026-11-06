@@ -1,0 +1,6 @@
+{
+  "original_user_input": {"date_of_birth": "1 jan 1990", "time_of_birth": "12:00 pm", "time_certainty": "exact", "birthplace": "Example City", "gender": "Male", "current_residence": "", "calendar_note": ""},
+  "normalized": {"civil_date": "1990-01-01", "civil_time_24h": "12:00:00", "calendar": "gregorian", "time_zone_iana": "Asia/Kolkata",
+    "uncertainty_minutes": 5, "gender": "male", "place_name": "Example City", "latitude": 19.0, "longitude": 73.0, "elevation_m": null,
+    "coordinate_source": "example", "current_residence": "", "as_of_date": "2026-11-06"}
+}
